@@ -1,4 +1,4 @@
-start: "Hello${comma} ${username}! I am Jarvis a User Info Bot\nI can tell Details about You or Forwarded Message.\nTry it out, Just Forward me some messages ;)"
+start: "Hello${comma} ${username}! I am Jarvis a User Info Bot\nI can tell Details about You or Forwarded Message.\nTry it out, Just Forward me some messages ;)\n\n This Free Bot Is Hosted By @JarvisBotz Consider Supporting Us By Joining The Channel For More Cool Free Bots"
 human: "there human"
 help: "Not implemented yet"
 idhelp: |
